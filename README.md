@@ -63,14 +63,6 @@
 
 ---
 
-### 📊 Auto-Detected Languages by GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagriti2005&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
