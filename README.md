@@ -55,13 +55,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagriti2005&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagriti2005&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=jagriti2005&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jagriti2005&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagriti2005&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
